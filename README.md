@@ -5,7 +5,7 @@ Infrastructure:
 
 This API is provisioned in AWS, each file in this application is a AWS lambda.
 It is orchestrated by API gateway and reads from one of two dynamoDB databases
-
+  
 This application is deployed into AWS,
 each one of these files
 
